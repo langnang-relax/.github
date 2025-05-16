@@ -1,2 +1,3 @@
--   电影 `movie`
--   剧集 `episode`
+-   电影 `Movie`
+-   剧集 `Episode`
+-   动漫 `Comic`
